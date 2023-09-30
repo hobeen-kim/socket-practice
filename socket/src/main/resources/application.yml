@@ -1,0 +1,8 @@
+spring:
+    redis:
+        host: 127.0.0.1
+        port: 6379
+    jwt:
+        secret: govlepel@$&sadfasdfsadfasidfhp23o8bf78174iu23b4o8217d34p21f3741275vg10348go31ero71283fg421837gf4woe
+server:
+    port: 8080
